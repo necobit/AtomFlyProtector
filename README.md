@@ -1,0 +1,4 @@
+# AtomFlyProtector
+AtomFly２の落下時破損防止グッズです。
+SubFlameの方はPLAでインフィル100%
+MotorStayGuardの方はTPUでノズル0.4mm、サポートなしでプリントしてください
